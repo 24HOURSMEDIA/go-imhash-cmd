@@ -1,6 +1,6 @@
 # imhash command
 
-Command line utility in GoLang to generate perceptual hashes from imag files.
+Command line utility in GoLang to generate perceptual hashes from image files.
 
 ## examples
 
