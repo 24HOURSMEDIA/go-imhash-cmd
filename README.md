@@ -2,6 +2,16 @@
 
 Command line utility in GoLang to generate perceptual hashes from image files.
 
+## Build
+
+Run
+
+```
+make build
+```
+
+to create an executable build in the build directory for the default platform.
+
 ## examples
 
 Basic usage
